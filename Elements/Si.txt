@@ -1,0 +1,5 @@
+Silicio
+Nº atomico: 14
+
+Masa atomica: 28.09
+Electronegatividad: 1.90

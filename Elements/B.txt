@@ -1,0 +1,5 @@
+Boro
+Nº atomico: 5
+
+Masa atomica: 10.81
+Electronegatividad: 2.04

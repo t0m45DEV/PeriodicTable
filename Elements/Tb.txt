@@ -1,0 +1,5 @@
+Terbio
+Nº atomico: 65
+
+Masa atomica: 158.9
+Electronegatividad: 1.10

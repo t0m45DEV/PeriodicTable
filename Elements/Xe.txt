@@ -1,0 +1,5 @@
+Xenon
+Nº atomico: 54
+
+Masa atomica: 131.3
+Electronegatividad: 2.60

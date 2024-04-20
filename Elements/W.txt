@@ -1,0 +1,5 @@
+Tungsteno
+Nº atomico: 74
+
+Masa atomica: 183.8
+Electronegatividad: 2.36

@@ -1,0 +1,5 @@
+Zinc
+Nº atomico: 30
+
+Masa atomica: 65.38
+Electronegatividad: 1.65

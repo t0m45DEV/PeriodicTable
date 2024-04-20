@@ -1,0 +1,5 @@
+Polonio
+Nº atomico: 84
+
+Masa atomica: 209.0
+Electronegatividad: 2.00

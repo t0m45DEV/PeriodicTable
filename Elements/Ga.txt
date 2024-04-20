@@ -1,0 +1,5 @@
+Galio
+Nº atomico: 31
+
+Masa atomica: 69.72
+Electronegatividad: 1.81

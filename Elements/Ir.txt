@@ -1,0 +1,5 @@
+Iridio
+Nº atomico: 77
+
+Masa atomica: 192.2
+Electronegatividad: 2.20

@@ -1,0 +1,5 @@
+Cesio
+Nº atomico: 55
+
+Masa atomica: 132.9
+Electronegatividad: 0.79

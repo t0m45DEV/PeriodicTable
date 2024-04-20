@@ -1,0 +1,5 @@
+Estroncio
+Nº atomico: 38
+
+Masa atomica: 87.62
+Electronegatividad: 0.95

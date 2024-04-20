@@ -1,0 +1,5 @@
+Azufre
+Nº atomico: 16
+
+Masa atomica: 32.07
+Electronegatividad: 2.58

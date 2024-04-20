@@ -1,0 +1,5 @@
+Tantalio
+Nº atomico: 73
+
+Masa atomica: 180.9
+Electronegatividad: 1.50

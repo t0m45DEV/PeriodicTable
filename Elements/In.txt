@@ -1,0 +1,5 @@
+Indio
+Nº atomico: 49
+
+Masa atomica: 114.8
+Electronegatividad: 1.78

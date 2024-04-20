@@ -1,0 +1,5 @@
+Calcio
+Nº atomico: 20
+
+Masa atomica: 40.08
+Electronegatividad: 1.0

@@ -1,0 +1,5 @@
+Mercurio
+Nº atomico: 80
+
+Masa atomica: 200.6
+Electronegatividad: 2.0

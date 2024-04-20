@@ -1,0 +1,5 @@
+Selenio
+Nº atomico: 34
+
+Masa atomica: 78.96
+Electronegatividad: 2.55

@@ -1,0 +1,5 @@
+Vanadio
+Nº atomico: 23
+
+Masa atomica: 50.94
+Electronegatividad: 1.63

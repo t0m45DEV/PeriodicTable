@@ -1,0 +1,5 @@
+Disprosio
+Nº atomico: 66
+
+Masa atomica: 162.5
+Electronegatividad: 1.22

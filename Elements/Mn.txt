@@ -1,0 +1,5 @@
+Manganeso
+Nº atomico: 25
+
+Masa atomica: 54.94
+Electronegatividad: 1.55

@@ -1,0 +1,5 @@
+Cerio
+Nº atomico: 58
+
+Masa atomica: 140.1
+Electronegatividad: 1.12

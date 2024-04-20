@@ -1,0 +1,5 @@
+Arsenico
+Nº atomico: 33
+
+Masa atomica: 74.92
+Electronegatividad: 2.18

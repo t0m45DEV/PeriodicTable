@@ -1,0 +1,5 @@
+Torio
+Nº atomico: 90
+
+Masa atomica: 232.0
+Electronegatividad: 1.30

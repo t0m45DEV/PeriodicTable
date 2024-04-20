@@ -1,0 +1,5 @@
+Osmio
+Nº atomico: 76
+
+Masa atomica: 190.2
+Electronegatividad: 2.20

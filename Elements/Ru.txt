@@ -1,0 +1,5 @@
+Rutenio
+Nº atomico: 44
+
+Masa atomica: 101.1
+Electronegatividad: 2.20

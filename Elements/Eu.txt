@@ -1,0 +1,5 @@
+Europio
+Nº atomico: 63
+
+Masa atomica: 152.0
+Electronegatividad: 1.20

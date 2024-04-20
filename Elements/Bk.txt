@@ -1,0 +1,5 @@
+Berkelio
+Nº atomico: 97
+
+Masa atomica: 247.1
+Electronegatividad: 1.30

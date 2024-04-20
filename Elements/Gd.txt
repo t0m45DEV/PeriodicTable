@@ -1,0 +1,5 @@
+Gadolinio
+Nº atomico: 64
+
+Masa atomica: 157.3
+Electronegatividad: 1.20

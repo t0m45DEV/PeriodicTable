@@ -1,0 +1,5 @@
+Roentgenio
+Nº atomico: 111
+
+Masa atomica: 280.2
+Electronegatividad: -

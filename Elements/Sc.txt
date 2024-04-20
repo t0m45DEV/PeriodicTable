@@ -1,0 +1,5 @@
+Escandio
+Nº atomico: 21
+
+Masa atomica: 44.96
+Electronegatividad: 1.36

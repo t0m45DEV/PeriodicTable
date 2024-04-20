@@ -1,0 +1,5 @@
+Molibdeno
+Nº atomico: 42
+
+Masa atomica: 95.96
+Electronegatividad: 2.16

@@ -1,0 +1,5 @@
+Circonio
+Nº atomico: 40
+
+Masa atomica: 91.22
+Electronegatividad: 1.33

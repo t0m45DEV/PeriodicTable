@@ -1,0 +1,5 @@
+Kripton
+Nº atomico: 36
+
+Masa atomica: 83.80
+Electronegatividad: 3.0

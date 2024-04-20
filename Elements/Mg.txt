@@ -1,0 +1,5 @@
+Magnesio
+Nº atomico: 12
+
+Masa atomica: 24.31
+Electronegatividad: 1.31

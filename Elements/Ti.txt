@@ -1,0 +1,5 @@
+Titanio
+Nº atomico: 22
+
+Masa atomica: 47.96
+Electronegatividad: 1.54

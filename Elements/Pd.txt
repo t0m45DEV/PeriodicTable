@@ -1,0 +1,5 @@
+Paladio
+Nº atomico: 46
+
+Masa atomica: 106.4
+Electronegatividad: 2.20

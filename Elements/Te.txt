@@ -1,0 +1,5 @@
+Telurio
+Nº atomico: 52
+
+Masa atomica: 127.6
+Electronegatividad: 2.10

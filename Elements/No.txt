@@ -1,0 +1,5 @@
+Nobelio
+Nº atomico: 102
+
+Masa atomica: 259.1
+Electronegatividad: 1.30

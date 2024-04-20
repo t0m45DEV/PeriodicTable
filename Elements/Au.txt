@@ -1,0 +1,5 @@
+Oro
+Nº atomico: 79
+
+Masa atomica: 197.0
+Electronegatividad: 2.54

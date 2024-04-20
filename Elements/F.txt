@@ -1,0 +1,5 @@
+Fluor
+Nº atomico: 9
+
+Masa atomica: 19.0
+Electronegatividad: 3.98

@@ -1,0 +1,5 @@
+Itrio
+Nº atomico: 39
+
+Masa atomica: 88.91
+Electronegatividad: 1.22

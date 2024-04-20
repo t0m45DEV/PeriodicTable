@@ -1,0 +1,5 @@
+Neodimio
+Nº atomico: 60
+
+Masa atomica: 144.2
+Electronegatividad: 1.14

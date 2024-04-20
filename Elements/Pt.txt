@@ -1,0 +1,5 @@
+Platino
+Nº atomico: 78
+
+Masa atomica: 195.1
+Electronegatividad: 2.28

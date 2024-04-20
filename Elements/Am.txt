@@ -1,0 +1,5 @@
+Americio
+Nº atomico: 95
+
+Masa atomica: 243.1
+Electronegatividad: 1.13

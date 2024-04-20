@@ -1,0 +1,5 @@
+Rubidio
+Nº atomico: 37
+
+Masa atomica: 85.47
+Electronegatividad: 0.82

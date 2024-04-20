@@ -1,0 +1,5 @@
+Cloro
+Nº atomico: 17
+
+Masa atomica: 35.37
+Electronegatividad: 3.16

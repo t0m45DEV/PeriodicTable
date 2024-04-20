@@ -1,0 +1,5 @@
+Estaño
+Nº atomico: 50
+
+Masa atomica: 118.7
+Electronegatividad: 1.96

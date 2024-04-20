@@ -1,0 +1,5 @@
+Cromo
+Nº atomico: 24
+
+Masa atomica: 52.0
+Electronegatividad: 1.66

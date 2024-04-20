@@ -1,0 +1,5 @@
+Talio
+Nº atomico: 81
+
+Masa atomica: 204.4
+Electronegatividad: 1.62

@@ -1,0 +1,5 @@
+Rodio
+Nº atomico: 45
+
+Masa atomica: 102.9
+Electronegatividad: 2.28

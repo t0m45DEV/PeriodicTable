@@ -1,0 +1,5 @@
+Hafnio
+Nº atomico: 72
+
+Masa atomica: 178.5
+Electronegatividad: 1.30

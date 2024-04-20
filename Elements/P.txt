@@ -1,0 +1,5 @@
+Fosforo
+Nº atomico: 15
+
+Masa atomica: 30.97
+Electronegatividad: 2.19

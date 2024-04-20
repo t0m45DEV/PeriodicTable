@@ -1,0 +1,5 @@
+Actinio
+Nº atomico: 89
+
+Masa atomica: 227.0
+Electronegatividad: 1.10

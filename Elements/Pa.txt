@@ -1,0 +1,5 @@
+Protactinio
+Nº atomico: 91
+
+Masa atomica: 231.0
+Electronegatividad: 1.50

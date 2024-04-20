@@ -1,0 +1,5 @@
+Cobre
+Nº atomico: 29
+
+Masa atomica: 63.55
+Electronegatividad: 1.90

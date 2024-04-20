@@ -1,0 +1,5 @@
+Sodio
+Nº atomico: 11
+
+Masa atomica: 29.99
+Electronegatividad: 0.93

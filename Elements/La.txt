@@ -1,0 +1,5 @@
+Lantano
+Nº atomico: 57
+
+Masa atomica: 138.9
+Electronegatividad: 1.10

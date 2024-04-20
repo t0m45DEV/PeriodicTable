@@ -1,0 +1,5 @@
+Niobio
+Nº atomico: 41
+
+Masa atomica: 92.91
+Electronegatividad: 1.60

@@ -1,0 +1,5 @@
+Berilio
+Nº atomico: 4
+
+Masa atomica: 9.012
+Electronegatividad: 1.57

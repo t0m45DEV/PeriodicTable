@@ -1,0 +1,5 @@
+Neptunio
+Nº atomico: 93
+
+Masa atomica: 237.0
+Electronegatividad: 1.36

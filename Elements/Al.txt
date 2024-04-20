@@ -1,0 +1,5 @@
+Aluminio
+Nº atomico: 13
+
+Masa atomica: 26.98
+Electronegatividad: 1.61

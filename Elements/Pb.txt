@@ -1,0 +1,5 @@
+Plomo
+Nº atomico: 82
+
+Masa atomica: 207.1
+Electronegatividad: 2.33

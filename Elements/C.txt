@@ -1,0 +1,5 @@
+Carbono
+Nº atomico: 6
+
+Masa atomica: 12.01
+Electronegatividad: 2.55

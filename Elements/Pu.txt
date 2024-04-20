@@ -1,0 +1,5 @@
+Plutonio
+Nº atomico: 94
+
+Masa atomica: 244.1
+Electronegatividad: 1.28

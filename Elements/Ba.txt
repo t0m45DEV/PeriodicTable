@@ -1,0 +1,5 @@
+Bario
+Nº atomico: 56
+
+Masa atomica: 137.3
+Electronegatividad: 0.89

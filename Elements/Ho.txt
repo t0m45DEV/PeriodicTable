@@ -1,0 +1,5 @@
+Holmio
+Nº atomico: 67
+
+Masa atomica: 164.9
+Electronegatividad: 1.23

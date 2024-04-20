@@ -1,0 +1,5 @@
+Neon
+Nº atomico: 10
+
+Masa atomica: 20.18
+Electronegatividad: -

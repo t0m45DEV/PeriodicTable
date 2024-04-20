@@ -1,0 +1,5 @@
+Oxigeno
+Nº atomico: 8
+
+Masa atomica: 16.0
+Electronegatividad: 3.44

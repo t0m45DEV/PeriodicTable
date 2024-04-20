@@ -1,0 +1,5 @@
+Niquel
+Nº atomico: 28
+
+Masa atomica: 58.69
+Electronegatividad: 1.91

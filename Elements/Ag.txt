@@ -1,0 +1,5 @@
+Plata
+Nº atomico: 47
+
+Masa atomica: 107.9
+Electronegatividad: 1.93

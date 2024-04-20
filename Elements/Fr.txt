@@ -1,0 +1,5 @@
+Francio
+Nº atomico: 87
+
+Masa atomica: 223.0
+Electronegatividad: 0.70

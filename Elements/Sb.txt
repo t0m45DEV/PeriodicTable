@@ -1,0 +1,5 @@
+Antimonio
+Nº atomico: 51
+
+Masa atomica: 121.8
+Electronegatividad: 2.05

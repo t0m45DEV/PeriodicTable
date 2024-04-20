@@ -1,0 +1,5 @@
+Samario
+Nº atomico: 62
+
+Masa atomica: 150.4
+Electronegatividad: 1.17

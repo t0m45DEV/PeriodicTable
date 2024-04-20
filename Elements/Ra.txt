@@ -1,0 +1,5 @@
+Radio
+Nº atomico: 88
+
+Masa atomica: 226.0
+Electronegatividad: 0.90

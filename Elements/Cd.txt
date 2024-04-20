@@ -1,0 +1,5 @@
+Cadmio
+Nº atomico: 48
+
+Masa atomica: 112.4
+Electronegatividad: 1.69

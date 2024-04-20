@@ -1,0 +1,5 @@
+Yodo
+Nº atomico: 53
+
+Masa atomica: 126.9
+Electronegatividad: 2.66

@@ -1,0 +1,5 @@
+Radon
+Nº atomico: 86
+
+Masa atomica: 222.0
+Electronegatividad: 2.20

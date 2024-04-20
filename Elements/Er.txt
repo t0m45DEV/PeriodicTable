@@ -1,0 +1,5 @@
+Erbio
+Nº atomico: 68
+
+Masa atomica: 167.3
+Electronegatividad: 1.24

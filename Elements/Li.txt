@@ -1,0 +1,5 @@
+Litio
+Nº atomico: 3
+
+Masa atomica: 6.938
+Electronegatividad: 0.98

@@ -1,0 +1,5 @@
+Yterbio
+Nº atomico: 70
+
+Masa atomica: 173.1
+Electronegatividad: 1.10

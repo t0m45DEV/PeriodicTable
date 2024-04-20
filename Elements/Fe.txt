@@ -1,0 +1,5 @@
+Hierro
+Nº atomico: 26
+
+Masa atomica: 55.85
+Electronegatividad: 1.83

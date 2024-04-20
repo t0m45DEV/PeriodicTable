@@ -1,0 +1,5 @@
+Tulio
+Nº atomico: 69
+
+Masa atomica: 168.9
+Electronegatividad: 1.25

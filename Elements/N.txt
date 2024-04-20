@@ -1,0 +1,5 @@
+Nitrogeno
+Nº atomico: 7
+
+Masa atomica: 14.01
+Electronegatividad: 3.04

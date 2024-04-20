@@ -1,0 +1,5 @@
+Cobalto
+Nº atomico: 27
+
+Masa atomica: 58.93
+Electronegatividad: 1.88

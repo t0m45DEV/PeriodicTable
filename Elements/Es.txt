@@ -1,0 +1,5 @@
+Einstenio
+Nº atomico: 99
+
+Masa atomica: 252.1
+Electronegatividad: 1.30

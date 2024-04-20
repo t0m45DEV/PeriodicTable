@@ -1,0 +1,5 @@
+Fermmio
+Nº atomico: 100
+
+Masa atomica: 257.1
+Electronegatividad: 1.30

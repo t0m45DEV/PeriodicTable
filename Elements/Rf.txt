@@ -1,0 +1,5 @@
+Rutherfordio
+Nº atomico: 104
+
+Masa atomica: 236.1
+Electronegatividad: -

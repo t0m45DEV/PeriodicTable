@@ -1,0 +1,5 @@
+Bromo
+Nº atomico: 35
+
+Masa atomica: 79.90
+Electronegatividad: 2.96

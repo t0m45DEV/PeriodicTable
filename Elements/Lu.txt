@@ -1,0 +1,5 @@
+Lutecio
+Nº atomico: 71
+
+Masa atomica: 175.0
+Electronegatividad: 1.27

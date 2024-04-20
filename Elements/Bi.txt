@@ -1,0 +1,5 @@
+Bismuto
+Nº atomico: 83
+
+Masa atomica: 209.0
+Electronegatividad: 2.02

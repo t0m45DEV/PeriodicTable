@@ -1,0 +1,5 @@
+Uranio
+Nº atomico: 92
+
+Masa atomica: 238.1
+Electronegatividad: 1.38

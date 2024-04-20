@@ -1,0 +1,5 @@
+Renio
+Nº atomico: 75
+
+Masa atomica: 186.2
+Electronegatividad: 1.90

@@ -1,0 +1,5 @@
+Lawrencio
+Nº atomico: 103
+
+Masa atomica: 262.1
+Electronegatividad: 1.30

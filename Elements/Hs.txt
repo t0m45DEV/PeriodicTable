@@ -1,0 +1,5 @@
+Hassio
+Nº atomico: 108
+
+Masa atomica: 269.1
+Electronegatividad: -

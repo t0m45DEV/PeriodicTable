@@ -1,0 +1,5 @@
+Tecnecio
+Nº atomico: 43
+
+Masa atomica: 97.91
+Electronegatividad: 1.90

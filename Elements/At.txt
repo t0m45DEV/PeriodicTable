@@ -1,0 +1,5 @@
+Astato
+Nº atomico: 85
+
+Masa atomica: 210.0
+Electronegatividad: 2.20

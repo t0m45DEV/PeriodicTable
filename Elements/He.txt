@@ -1,0 +1,5 @@
+Helio
+Nº atomico: 2
+
+Masa atomica: 4.003
+Electronegatividad: -

@@ -1,0 +1,5 @@
+Germanio
+Nº atomico: 32
+
+Masa atomica: 72.63
+Electronegatividad: 2.01

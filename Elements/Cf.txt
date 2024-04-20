@@ -1,0 +1,5 @@
+Californio
+Nº atomico: 98
+
+Masa atomica: 251.1
+Electronegatividad: 1.30

@@ -1,0 +1,5 @@
+Prometio
+Nº atomico: 61
+
+Masa atomica: 144.91
+Electronegatividad: 1.13

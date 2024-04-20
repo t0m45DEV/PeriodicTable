@@ -1,0 +1,5 @@
+Mendelevio
+Nº atomico: 101
+
+Masa atomica: 258.1
+Electronegatividad: 1.30
